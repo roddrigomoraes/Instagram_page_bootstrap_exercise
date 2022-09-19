@@ -1,0 +1,45 @@
+a i {
+    margin-left: 200px;
+}
+.createpost {
+    margin-left: 1000px;
+}
+.dropdown {
+margin-right: 200px;
+}
+.icons-camera-location {
+    margin-left: 30px;
+    width: 50px;
+    height: 50px;
+}
+.modal {
+    padding-right: 0px !important;
+}
+.mb-3 {
+    padding: 17px;
+}
+img {
+    width: 415px;
+    height: 400px;
+    padding: 10px;
+}
+.post {
+    
+    
+    padding: 20px;
+}
+    
+div h2 {
+    margin-right: 420px;
+    text-size-adjust: 26px;
+}
+.feed {
+    width: 600px;
+    height: 600px;
+}
+div h1 {
+    margin-right: 300px;
+}
+div p {
+    margin-right: 230px;
+}
